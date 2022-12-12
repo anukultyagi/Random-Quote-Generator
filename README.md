@@ -1,6 +1,8 @@
 # Random-Quote-Generator
 A random quote generator which do exactly what it's name suggest. It generates random quotes with author name. 
-
+#
+Live URL : https://anukultyagi.github.io/Random-Quote-Generator/
+#
 <strong>Tech Stack:- </strong> JavaScript, CSS, HTML.
 <br>
 <strong>API:- </strong> Quotes API by Martin Svoboda and Rapid API.
